@@ -3,7 +3,7 @@
   "theme": "mint",
   "name": "ReaperX",
   "colors": {
-    "primary": "#FF2B55",
+    "primary": "#E11D48",
     "light": "#FF5C7C",
     "dark": "#4A1020"
   },
@@ -16,7 +16,6 @@
           {
             "group": "Getting Started",
             "pages": [
-              "untitled-page-4",
               "compatibility",
               "redeem-keys",
               "get-scripts"
@@ -167,7 +166,7 @@
   "background": {
     "color": {
       "light": "#FFFFFF",
-      "dark": "#000000"
+      "dark": "#080808"
     }
   },
   "thumbnails": {
