@@ -3,9 +3,9 @@
   "theme": "mint",
   "name": "ReaperX",
   "colors": {
-    "primary": "#ff2b55",
-    "light": "#ff5c7c",
-    "dark": "#4a1020"
+    "primary": "#FF2B55",
+    "light": "#FF5C7C",
+    "dark": "#4A1020"
   },
   "favicon": "/favicon.svg",
   "navigation": {
@@ -14,16 +14,10 @@
         "tab": "English",
         "groups": [
           {
-            "group": "Introduction",
-            "pages": [
-              "Overview",
-              "compatibility"
-            ]
-          },
-          {
             "group": "Getting Started",
-            "icon": "key-skeleton",
             "pages": [
+              "untitled-page-4",
+              "compatibility",
               "redeem-keys",
               "get-scripts"
             ]
@@ -31,16 +25,17 @@
           {
             "group": "Dungeon Quest",
             "pages": [
+              "Overview",
               "auto-farm",
               "auto-sell",
-              "untitled-page-4",
-              "webhook-setup",
-              "autoexec-setup"
+              "auto-party",
+              "webhook-setup"
             ]
           },
           {
-            "group": "Troubleshooting",
+            "group": "Guides",
             "pages": [
+              "autoexec-setup",
               "dqr-issues"
             ]
           },
@@ -170,7 +165,11 @@
     }
   },
   "background": {
-    "decoration": "grid"
+    "decoration": "grid",
+    "color": {
+      "light": "#FFFFFF",
+      "dark": "#000000"
+    }
   },
   "thumbnails": {
     "appearance": "dark"
