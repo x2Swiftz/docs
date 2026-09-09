@@ -148,7 +148,7 @@
     "links": [
       {
         "label": "Support",
-        "href": "https://discord.gg/kirito"
+        "href": "https://discord.gg/reaperxhub"
       }
     ],
     "primary": {
@@ -161,11 +161,10 @@
   "footer": {
     "socials": {
       "youtube": "https://www.youtube.com/@XenonHub/videos",
-      "discord": "https://discord.gg/5pFjXEhA5k"
+      "discord": "https://discord.gg/reaperxhub"
     }
   },
   "background": {
-    "decoration": "grid",
     "color": {
       "light": "#FFFFFF",
       "dark": "#000000"
